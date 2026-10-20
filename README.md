@@ -131,10 +131,6 @@ Planned milestones:
 - [ ] Add randomized stimulus and functional coverage.
 - [ ] Run regression tests and document measured results.
 
-## References
-
-- [Arm AMBA AXI Protocol Specifications](https://developer.arm.com/documentation/ihi0022/latest/)
-- [Alex Forencich — Verilog AXI](https://github.com/AlexForencich/verilog-axi)
 
 ## Author
 
